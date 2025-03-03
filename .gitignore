@@ -1,0 +1,7 @@
+data/
+transcripts/
+venv/
+*.mp3
+*.wav
+*.ogg
+
