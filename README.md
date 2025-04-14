@@ -1,5 +1,3 @@
-# Updating the README.md content to mention Whisper runs locally and Prompt Toolkit is used
-
 # Whisper Transcriber
 
 A Python script that transcribes audio files or YouTube videos into text using OpenAI's Whisper model **locally**.
